@@ -1,0 +1,14 @@
+{
+    "result": [
+        {
+            "name": "pet", 
+            "percentage_probability": 52.74764895439148, 
+            "box_points": [
+                546,
+                435,
+                826,
+                870
+            ]
+        }
+    ]
+}
